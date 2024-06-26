@@ -2,5 +2,12 @@
 
 body{background-color: hsl(0, 0%, 8%);
 }
-button{border-radius: 10px;
-    background-color: red;}
+
+div button{border-radius: 10px;
+    font-weight: 600;
+    background-color: #f9fafb;
+padding: 8px 4px;
+
+}
+
+button:hover{background-color: #e5e7eb;}
