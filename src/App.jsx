@@ -7,7 +7,7 @@ function App() {
 
   return (
 
-<div className='text-center px-4 h-screen grid place-content-center place-items-center '>
+<div className='text-center px-2 mt-10 md:mt-0 grid place-content-center place-items-center '>
 
    <div>
       <div className='px-20 pt-10 pb-10 bg-blue-700 rounded-t-2xl'>
